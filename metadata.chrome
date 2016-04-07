@@ -15,24 +15,24 @@ permissions = tabs
   notifications
 options = options.html
 devtools = devtools.html
-browserAction = icons/abp-19.png icons/abp-38.png popup.html
-icons = icons/abp-16.png icons/abp-32.png icons/detailed/abp-48.png
-  icons/detailed/abp-64.png icons/detailed/abp-128.png
+browserAction = icons/hab-19.png icons/hab-38.png popup.html
+icons = icons/hab-16.png icons/hab-32.png icons/detailed/hab-48.png
+  icons/detailed/hab-64.png icons/detailed/hab-128.png
 managedStorageSchema = managed-storage-schema.json
 
 [compat]
 chrome = 29.0
 
 [mapping]
-icons/abp-19.png = chrome/icons/abp-19.png
-icons/abp-19-whitelisted.png = chrome/icons/abp-19-whitelisted.png
-icons/abp-19-notification-critical.png = chrome/icons/abp-19-notification-critical.png
-icons/abp-19-notification-information.png = chrome/icons/abp-19-notification-information.png
-icons/abp-38.png = chrome/icons/abp-38.png
-icons/abp-38-whitelisted.png = chrome/icons/abp-38-whitelisted.png
-icons/abp-38-notification-critical.png = chrome/icons/abp-38-notification-critical.png
-icons/abp-38-notification-information.png = chrome/icons/abp-38-notification-information.png
-icons/detailed/abp-48.png = chrome/icons/detailed/abp-48.png
+icons/hab-19.png = chrome/icons/hab-19.png
+icons/hab-19-whitelisted.png = chrome/icons/hab-19-whitelisted.png
+icons/hab-19-notification-critical.png = chrome/icons/hab-19-notification-critical.png
+icons/hab-19-notification-information.png = chrome/icons/hab-19-notification-information.png
+icons/hab-38.png = chrome/icons/hab-38.png
+icons/hab-38-whitelisted.png = chrome/icons/hab-38-whitelisted.png
+icons/hab-38-notification-critical.png = chrome/icons/hab-38-notification-critical.png
+icons/hab-38-notification-information.png = chrome/icons/hab-38-notification-information.png
+icons/detailed/hab-48.png = chrome/icons/detailed/hab-48.png
 ext/devtools.js = chrome/ext/devtools.js
 devtools.html = chrome/devtools.html
 devtools.js = chrome/devtools.js
