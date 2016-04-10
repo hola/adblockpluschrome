@@ -39,7 +39,7 @@
     "message": "<strong>Deshabilitado</strong> en este sitio"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus está desactivado para los dominios mostrados a continuación. Puedes añadir un dominio ya sea con el icono de Adblock Plus en la barra de direcciones o escribiendo el dominio (No la URL) en el recuadro y haciendo click en el botón \"Agregar dominio\"."
+    "message": "Hola adblock está desactivado para los dominios mostrados a continuación. Puedes añadir un dominio ya sea con el icono de Hola adblock en la barra de direcciones o escribiendo el dominio (No la URL) en el recuadro y haciendo click en el botón \"Agregar dominio\"."
   },
   "easy_create_filter": {
     "message": "Bloquear Elemento"
@@ -57,10 +57,10 @@
     "message": "Listas de filtros"
   },
   "filter_must_follow_syntax": {
-    "message": "El filtro debe seguir la <a>Sintaxis de filtros de Adblock Plus</a>."
+    "message": "El filtro debe seguir la <a>Sintaxis de filtros de Hola adblock</a>."
   },
   "found_a_bug": {
-    "message": "¿Encontraste un error? ¿Quieres traducir Adblock Plus en tu lenguaje? Por vafor <a>llene una solicitud aquí</a>."
+    "message": "¿Encontraste un error? ¿Quieres traducir Hola adblock en tu lenguaje? Por vafor <a>llene una solicitud aquí</a>."
   },
   "general": {
     "message": "General"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versión de desarrollo de Adblock Plus"
+    "message": "Versión de desarrollo de Hola adblock"
   },
   "notification_configure": {
     "message": "Configurar opciones de notificación"
@@ -116,7 +116,7 @@
     "message": "Haz click en la notificación para abrir todos los enlaces en él."
   },
   "options": {
-    "message": "Opciones de Adblock Plus"
+    "message": "Opciones de Hola adblock"
   },
   "options_short": {
     "message": "Opciones"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Descarga Adblock Plus"
+    "message": "Descarga Hola adblock"
   },
   "stats_share_message": {
-    "message": "He bloqueado $number$ anuncios y rastreadores gracias a Adblock Plus.",
+    "message": "He bloqueado $number$ anuncios y rastreadores gracias a Hola adblock.",
     "placeholders": {
       "number": {
         "content": "$1"

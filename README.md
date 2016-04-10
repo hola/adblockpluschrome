@@ -1,9 +1,9 @@
-Adblock Plus for Chrome, Opera and Safari
+Hola adblock for Chrome, Opera and Safari
 =========================================
 
-This repository contains the platform-specific Adblock Plus source code for
-Chrome, Opera and Safari. It can be used to build Adblock Plus for these
-platforms, generic Adblock Plus code will be extracted from other repositories
+This repository contains the platform-specific Hola adblock source code for
+Chrome, Opera and Safari. It can be used to build Hola adblock for these
+platforms, generic Hola adblock code will be extracted from other repositories
 automatically (see _dependencies_ file).
 
 Building
