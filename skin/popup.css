@@ -2,11 +2,10 @@ body
 {
   min-width: 250px;
   margin: 0px;
-  font-family: Segoe UI, Arial, sans-serif;
+  font-family: 'Segoe UI', 'PT Sans', 'Helvetica Neue', 'FreeSans', sans-serif;
   font-size: 13px;
-  color: #545454;
-  background-color: #f8f6f2;
-  background-image: url(background.png);
+  color: #43435e;
+  background-color: #fff;
 }
 
 #clickhide-instructions,
@@ -37,10 +36,10 @@ body.disabled #clickhide
 
 header
 {
-  height: 45px;
-  margin-bottom: 40px;
+  height: 50px;
+  margin-bottom: 50px;
   border-bottom: 1px solid #e1ddd8;
-  background-image: url(background-main.png);
+  background: #00b7f1;
 }
 
 #logo
@@ -146,19 +145,9 @@ footer
 {
   cursor: pointer;
   padding: 10px 35px;
-  border-top: 1px solid #e1ddd8;
-  background-image: url(background-main.png);
+  border-top: 1px solid #c5c5d0;
 }
 
-footer:hover
-{
-  background: -moz-linear-gradient(top, rgba(70, 50, 0, 0.1), rgba(70, 50, 0, 0.1)),
-    url(background-main.png);
-  background: -webkit-linear-gradient(top, rgba(70, 50, 0, 0.1), rgba(70, 50, 0, 0.1)),
-    url(background-main.png);
-  background: linear-gradient(to bottom, rgba(70, 50, 0, 0.1), rgba(70, 50, 0, 0.1)),
-    url(background-main.png);
-}
 
 footer .icon
 {
@@ -176,7 +165,6 @@ li
   cursor: pointer;
   list-style-type: none;
   white-space: nowrap;
-  border-top: 1px dashed #a5a4a1;
 }
 
 li ul
@@ -192,7 +180,7 @@ li li
 
 .menu-item
 {
-  padding: 10px 0px 10px 15px;
+  padding: 0 0 0 15px;
 }
 
 .menu-item:hover
@@ -257,6 +245,11 @@ body.disabled #enabled #enabled-no
 #stats-container .icon
 {
   background-position: -50px -49px;
+}
+
+#stats-container h3 {
+  margin: 10px 0 -5px 50px;
+  padding-bottom: 0;
 }
 
 
@@ -374,4 +367,9 @@ body.disabled #enabled #enabled-no
 label
 {
   vertical-align: middle;
+}
+
+.i18n_options_short {
+  color: #00b7f1;
+  text-decoration: underline;
 }

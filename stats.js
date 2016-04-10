@@ -69,7 +69,6 @@
   
   function onLoad()
   {
-    document.getElementById("share-box").addEventListener("click", share, false);
     var showIconNumber = document.getElementById("show-iconnumber");
     showIconNumber.setAttribute("aria-checked", Prefs.show_statsinicon);
     showIconNumber.addEventListener("click", toggleIconNumber, false);
