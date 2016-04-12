@@ -31,11 +31,12 @@ function onLoad()
   ext.pages.query({active: true, lastFocusedWindow: true}, function(pages)
   {
     page = pages[0];
-
     // Mark page as 'local' or 'nohtml' to hide non-relevant elements
     if (!page || (page.url.protocol != "http:" &&
-                  page.url.protocol != "https:"))
+                  page.url.protocol != "https:") || 
+                  isHolaPage(page))
       document.body.classList.add("local");
+
     else if (!require("filterComposer").isPageReady(page))
     {
       document.body.classList.add("nohtml");
@@ -138,6 +139,14 @@ function toggleCollapse(event)
   var collapser = event.currentTarget;
   Prefs[collapser.dataset.option] = !Prefs[collapser.dataset.option];
   collapser.parentNode.classList.toggle("collapsed");
+}
+
+function isHolaPage(page) {
+  if(!page || !Prefs.hola_whitelist){
+    return false;
+  }
+  var host = getDecodedHostname(page.url).replace(/^www\./, "");
+  return Prefs.hola_whitelist.indexOf(host) > -1;
 }
 
 document.addEventListener("DOMContentLoaded", onLoad, false);
