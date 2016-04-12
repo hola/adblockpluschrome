@@ -144,14 +144,23 @@ header
 footer
 {
   cursor: pointer;
-  padding: 10px 35px;
+  padding: 0 10px;
   border-top: 1px solid #c5c5d0;
+  height:50px;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
 
-footer .icon
+footer .logo
 {
-  background-position: -50px -65px;
+  background: url('logo.png') no-repeat;
+  width: 62px;
+  height: 25px;
+  background-position: 0 -25px;
+  display: inline-block;
 }
 
 ul
@@ -371,5 +380,7 @@ label
 
 .i18n_options_short {
   color: #00b7f1;
+}
+.i18n_options_short:hover {
   text-decoration: underline;
 }
