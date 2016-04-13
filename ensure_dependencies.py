@@ -238,7 +238,7 @@ def get_repo_type(repo):
   for name, repotype in repo_types.iteritems():
     if repotype.istype(repo):
       return name
-  return None
+  return "hg"
 
 def ensure_repo(parentrepo, parenttype, target, type, root, sourcename):
   if os.path.exists(target):
@@ -334,7 +334,7 @@ def resolve_deps(repodir, level=0, self_update=True, overrideroots=None, skipdep
       targetdata = handle.read()
 
     if sourcedata != targetdata:
-      logging.info("Updating %s from %s, don't forget to commit" % (source, target))
+      logging.info("Updating %s from %s, don't forget to commit" % (target, source))
       with io.open(target, "wb") as handle:
         handle.write(sourcedata)
       if __name__ == "__main__":
