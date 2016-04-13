@@ -57,7 +57,7 @@
     "message": "Listahan ng mga Filter"
   },
   "filter_must_follow_syntax": {
-    "message": "Ang iyong filter ay dapat nakasunod sa <a>Hola adblock filter syntax</a>."
+    "message": "Ang iyong filter ay dapat nakasunod sa <a>Adblock Plus filter syntax</a>."
   },
   "found_a_bug": {
     "message": "Nakadiskobre ng bug? Gusto mo bang isalin ang Hola adblock sa inyong wika? <a>ilagay ang inyong request dito</a>."

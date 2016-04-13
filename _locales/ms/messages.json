@@ -57,7 +57,7 @@
     "message": "Senarai penapis"
   },
   "filter_must_follow_syntax": {
-    "message": "Penapis anda mesti ikut <a>Hola adblock filter syntax</a>."
+    "message": "Penapis anda mesti ikut <a>Adblock Plus filter syntax</a>."
   },
   "found_a_bug": {
     "message": "Menghadapi masalah? Ingin terjemahkan Hola adblock kepada bahasa anda? Sila <a>failkan permohonan anda di sini</a>."

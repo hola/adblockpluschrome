@@ -57,7 +57,7 @@
     "message": "Filterlijsten"
   },
   "filter_must_follow_syntax": {
-    "message": "Je filter moet de <a>Hola adblock filter syntax</a> volgen."
+    "message": "Je filter moet de <a>Adblock Plus filter syntax</a> volgen."
   },
   "found_a_bug": {
     "message": "Heb je een bug gevonden? Wil je helpen Hola adblock te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."

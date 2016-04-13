@@ -152,64 +152,11 @@ button
 
 <div id="tabs">
   <ul>
-    <li><a href="#tab-filterlists"><span class="i18n_filter_lists"></span></a></li>
+    <li><a href="#tab-general"><span class="i18n_general"></span></a></li>
     <li><a href="#tab-userfilters"><span class="i18n_add_your_own_filters"></span></a></li>
     <li><a href="#tab-whitelisted"><span class="i18n_whitelisted_domains"></span></a></li>
-    <li><a href="#tab-general"><span class="i18n_general"></span></a></li>
+  
   </ul>
-
-  <div id="tab-filterlists">
-    <p>
-      <span class="i18n_enable_only_the"></span>
-    </p>
-    <p>
-      <span class="i18n_out_of_date_lists"></span>
-      <button id="updateFilterLists" class="refreshButton"><span class="i18n_update_now"></span></button><br />
-
-      <!-- Subscription entry template -->
-      <div id="subscriptionTemplate" class="subscription">
-        <button class="i18n_filters_subscription_delete_label subscriptionRemoveButton"></button>
-        <label class="subscriptionEnabledContainer">
-          <input class="subscriptionEnabled" type="checkbox" /> <span class="i18n_filters_subscription_enabled_label"></span>
-        </label>
-        <a class="subscriptionTitle"></a>
-        <span class="subscriptionUpdate"></span>
-      </div>
-
-      <!-- Placeholder for list of subscriptions -->
-      <div id="filterLists"></div>
-      <br />
-
-      <!-- Placeholder for user's filter list URLs -->
-      <div id="userFilterLists" style="margin-bottom: 8px"></div>
-
-      <p id="addSubscriptionButton">
-        <button id="startSubscriptionSelection" class="addButton"><span class="i18n_filters_addSubscription_label"></span></button>
-      </p>
-      <div id="addSubscriptionContainer">
-        <span class="i18n_subscriptionSelection_subscriptionSelector_label"></span><br />
-        <select id="subscriptionSelector" style="width:500px"></select>
-        <button id="addSubscription" class="addButton"><span class="i18n_filters_addSubscriptionAdd_label"></span></button>
-      </div>
-      <div id="customSubscriptionContainer">
-        <p>
-          <span class="i18n_subscriptionSelection_title_label"></span><br />
-          <input type="text" id="customSubscriptionTitle" style="width:500px" />
-        </p>
-        <p>
-          <span class="i18n_subscriptionSelection_location_label"></span><br />
-          <input type="text" id="customSubscriptionLocation" style="width:500px" />
-        </p>
-      </div>
-
-      <div id="acceptableAdsContainer">
-        <input type="checkbox" id="acceptableAds" />
-        <label for="acceptableAds" class="i18n_filters_acceptableAds2_label"></label>
-        <a id="acceptableAdsLink" href="#" target="_blank" class="i18n_filters_viewList_label"></a>
-        <a id="acceptableAdsDocs" href="#" target="_blank" class="i18n_filters_readMore_label"></a>
-      </div>
-    </p>
-  </div>
 
   <div id="tab-whitelisted">
     <p class="i18n_disabled_for_these_domains"></p>
@@ -289,8 +236,6 @@ button
         <input type="checkbox" id="shouldShowNotifications" /><label for="shouldShowNotifications" class="i18n_overlay_shownotifications_label"></label>
       </div>
     </p>
-
-    <p id="found-a-bug" class="i18n_found_a_bug"></p>
   </div>
 </div>
 
