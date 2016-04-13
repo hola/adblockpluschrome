@@ -153,7 +153,6 @@ button
 <div id="tabs">
   <ul>
     <li><a href="#tab-general"><span class="i18n_general"></span></a></li>
-    <li><a href="#tab-userfilters"><span class="i18n_add_your_own_filters"></span></a></li>
     <li><a href="#tab-whitelisted"><span class="i18n_whitelisted_domains"></span></a></li>
   
   </ul>
@@ -178,46 +177,6 @@ button
         </td>
         <td>
           <button id="removeWhitelist" class="removeButton"><span class="i18n_remove_button"></span></button>
-        </td>
-      </tr>
-    </table>
-    </form>
-  </div>
-
-  <div id="tab-userfilters">
-    <p id="filter-must-follow-syntax" class="i18n_filter_must_follow_syntax"></p>
-
-    <form id="customFilterForm" action="#">
-    <table>
-      <tr>
-        <td>
-          <input type="text" value="" id="newFilter" style="width:500px">
-        </td>
-        <td>
-          <button class="addButton" type="submit"><span class="i18n_add_filter_button"></span></button>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <select id="userFiltersBox" size="20" multiple style="width: 500px; background: white;"></select>
-        </td>
-        <td>
-          <button id="removeCustomFilter" class="removeButton"><span class="i18n_remove_button"></span></button>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <div style="font-size: 90%; text-align: right"><a id="rawFiltersButton" href="#"><span class="i18n_edit_filters_raw"></span></a></div>
-        </td>
-      </tr>
-      <tr id="rawFilters">
-        <td>
-          <div style="width: 500px">
-            <textarea id="rawFiltersText" style="width: 100%; height: 300px"></textarea>
-          </div>
-        </td>
-        <td>
-          <div><button id="importRawFilters"><span class="i18n_apply_changes"></span></button></div>
         </td>
       </tr>
     </table>
