@@ -1,7 +1,9 @@
 /devenv*/
 *.zip
+*.tar.gz
 *.crx
 *.safariextz
 *.pyc
 *.pyo
 *.sh
+/hola_adblock*/
