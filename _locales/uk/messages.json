@@ -39,7 +39,7 @@
     "message": "<strong>Вимкнено</strong> на цьому сайті"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock відключено для нижчеперерахованих доменів. Домени можна додавати за допомогою значка Hola adblock у рядку адреси чи набравши назву домена (не адресу) у даному полі та клацнувши кнопку «Додати домен»."
+    "message": "Hola AdBlock відключено для нижчеперерахованих доменів. Домени можна додавати за допомогою значка Hola AdBlock у рядку адреси чи набравши назву домена (не адресу) у даному полі та клацнувши кнопку «Додати домен»."
   },
   "easy_create_filter": {
     "message": "Заблокувати елемент"
@@ -57,10 +57,10 @@
     "message": "Списки фільтрів"
   },
   "filter_must_follow_syntax": {
-    "message": "Ваш фільтр має відповідати <a>синтаксису фільтрів Hola adblock</a>."
+    "message": "Ваш фільтр має відповідати <a>синтаксису фільтрів Hola AdBlock</a>."
   },
   "found_a_bug": {
-    "message": "Виявили помилку? Бажаєте перекласти Hola adblock своєю мовою? Будь ласка, <a>оформіть заявку тут</a>."
+    "message": "Виявили помилку? Бажаєте перекласти Hola AdBlock своєю мовою? Будь ласка, <a>оформіть заявку тут</a>."
   },
   "general": {
     "message": "Загальні"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola adblock (тестова збiрка)"
+    "message": "Hola AdBlock (тестова збiрка)"
   },
   "notification_configure": {
     "message": "Налаштування повідомлень"
@@ -116,7 +116,7 @@
     "message": "Клацніть по повідомленню, щоб відкрити всі посилання в ньому."
   },
   "options": {
-    "message": "Налаштування Hola adblock"
+    "message": "Налаштування Hola AdBlock"
   },
   "options_short": {
     "message": "Налаштування"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Завантажити Hola adblock"
+    "message": "Завантажити Hola AdBlock"
   },
   "stats_share_message": {
-    "message": "Я заблокував $number$ оголошень і шпигунів завдяки Hola adblock.",
+    "message": "Я заблокував $number$ оголошень і шпигунів завдяки Hola AdBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

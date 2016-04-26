@@ -39,7 +39,7 @@
     "message": "<strong>Забранено</strong> за сайта"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock е забранен за домейните от долния списък. Добавянето на домейн става или чрез иконата на Hola adblock в адресната лента или чрез въвеждане на домейна (не на целия URL) в полето и натискане на бутон „Добави домейна“."
+    "message": "Hola AdBlock е забранен за домейните от долния списък. Добавянето на домейн става или чрез иконата на Hola AdBlock в адресната лента или чрез въвеждане на домейна (не на целия URL) в полето и натискане на бутон „Добави домейна“."
   },
   "easy_create_filter": {
     "message": "Блокирай елемента"
@@ -57,10 +57,10 @@
     "message": "Списък с филтри"
   },
   "filter_must_follow_syntax": {
-    "message": "Вашият филтър трябва да спазва <a>синтаксиса за филтри на Hola adblock</a>."
+    "message": "Вашият филтър трябва да спазва <a>синтаксиса за филтри на Hola AdBlock</a>."
   },
   "found_a_bug": {
-    "message": "Открихте грешка? Искате да преведете Hola adblock на вашия език? Моля, <a>попълнете тази заявка</a>."
+    "message": "Открихте грешка? Искате да преведете Hola AdBlock на вашия език? Моля, <a>попълнете тази заявка</a>."
   },
   "general": {
     "message": "Общи"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Версия за разработчици на Hola adblock"
+    "message": "Версия за разработчици на Hola AdBlock"
   },
   "notification_configure": {
     "message": "Конфигуриране на настройките на уведомяване"
@@ -116,7 +116,7 @@
     "message": "Щракнете по уведомяване за отваряне на съдържащите се препратки."
   },
   "options": {
-    "message": "Настройки на Hola adblock"
+    "message": "Настройки на Hola AdBlock"
   },
   "options_short": {
     "message": "Настройки"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Изтегли Hola adblock"
+    "message": "Изтегли Hola AdBlock"
   },
   "stats_share_message": {
-    "message": "С Hola adblock блокирах $number$ реклами и проследявания.",
+    "message": "С Hola AdBlock блокирах $number$ реклами и проследявания.",
     "placeholders": {
       "number": {
         "content": "$1"

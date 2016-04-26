@@ -39,7 +39,7 @@
     "message": "<strong>Zakázané</strong> na tejto stránke"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu Hola adblock v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
+    "message": "Hola AdBlock je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu Hola AdBlock v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
   },
   "easy_create_filter": {
     "message": "Blokovať prvok"
@@ -57,10 +57,10 @@
     "message": "Zoznamy filtrov"
   },
   "filter_must_follow_syntax": {
-    "message": "Váš filter musí spĺňať <a>syntax filtrov Hola adblock</a>."
+    "message": "Váš filter musí spĺňať <a>syntax filtrov Hola AdBlock</a>."
   },
   "found_a_bug": {
-    "message": "Nájdené chyba? Chcete preložiť Hola adblock do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
+    "message": "Nájdené chyba? Chcete preložiť Hola AdBlock do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
   },
   "general": {
     "message": "Všeobecné"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Vývojová verzia Hola adblock"
+    "message": "Vývojová verzia Hola AdBlock"
   },
   "notification_configure": {
     "message": "Konfigurovať nastavenia upozornení"
@@ -116,7 +116,7 @@
     "message": "Kliknite na upozornenie pre otvorenie všetkých odkazov v ňom."
   },
   "options": {
-    "message": "Hola adblock nastavenia"
+    "message": "Hola AdBlock nastavenia"
   },
   "options_short": {
     "message": "Možnosti"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Stiahnuť Hola adblock"
+    "message": "Stiahnuť Hola AdBlock"
   },
   "stats_share_message": {
-    "message": "Zablokoval som $number$ reklám a sledovačov vďaka Hola adblock.",
+    "message": "Zablokoval som $number$ reklám a sledovačov vďaka Hola AdBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -39,7 +39,7 @@
     "message": "在此網站上 <strong>停用</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock 將在以下網域停用。您可以利用網址列上的 Hola adblock 圖示新增，或在下方輸入網域 (而非網址) 並點擊「新增網域」按鈕。"
+    "message": "Hola AdBlock 將在以下網域停用。您可以利用網址列上的 Hola AdBlock 圖示新增，或在下方輸入網域 (而非網址) 並點擊「新增網域」按鈕。"
   },
   "easy_create_filter": {
     "message": "過濾網頁元素"
@@ -57,10 +57,10 @@
     "message": "過濾列表"
   },
   "filter_must_follow_syntax": {
-    "message": "您的過濾條件必須遵守 <a>Hola adblock 的語法</a>."
+    "message": "您的過濾條件必須遵守 <a>Hola AdBlock 的語法</a>."
   },
   "found_a_bug": {
-    "message": "發現 bug？想要翻譯 Hola adblock？請至 <a>此處詢問</a>。"
+    "message": "發現 bug？想要翻譯 Hola AdBlock？請至 <a>此處詢問</a>。"
   },
   "general": {
     "message": "一般設定"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola adblock 開發版"
+    "message": "Hola AdBlock 開發版"
   },
   "notification_configure": {
     "message": "設置通知設定"
@@ -116,7 +116,7 @@
     "message": "點擊通知打開它裡面的所有鏈接"
   },
   "options": {
-    "message": "Hola adblock 選項"
+    "message": "Hola AdBlock 選項"
   },
   "options_short": {
     "message": "選項"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "下載 Hola adblock"
+    "message": "下載 Hola AdBlock"
   },
   "stats_share_message": {
-    "message": "感謝 Hola adblock，至今我已過濾掉了 $number$ 個廣告。",
+    "message": "感謝 Hola AdBlock，至今我已過濾掉了 $number$ 個廣告。",
     "placeholders": {
       "number": {
         "content": "$1"

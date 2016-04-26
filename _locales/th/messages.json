@@ -39,7 +39,7 @@
     "message": "<strong>เปิด</strong>บนเว็บไซต์นี้"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock ถูกปิดใช้งานสำหรับโดเมนที่แสดงอยู่ด้านล่าง คุณสามารถเพิ่มโดเมนได้ ผ่านไอคอน Hola adblock ในแถบที่อยู่ หรือโดยพิมพ์โดเมน (ไม่ใช่ URL) ในกล่อง และคลิกปุ่ม \"เพิ่มโดเมน\""
+    "message": "Hola AdBlock ถูกปิดใช้งานสำหรับโดเมนที่แสดงอยู่ด้านล่าง คุณสามารถเพิ่มโดเมนได้ ผ่านไอคอน Hola AdBlock ในแถบที่อยู่ หรือโดยพิมพ์โดเมน (ไม่ใช่ URL) ในกล่อง และคลิกปุ่ม \"เพิ่มโดเมน\""
   },
   "easy_create_filter": {
     "message": "ปิดกั้นองค์ประกอบ"
@@ -57,10 +57,10 @@
     "message": "รายชื่อตัวกรอง"
   },
   "filter_must_follow_syntax": {
-    "message": "ตัวกรองของคุณต้องตรงตาม<a>ไวยากรณ์ตัวกรอง Hola adblock</a>"
+    "message": "ตัวกรองของคุณต้องตรงตาม<a>ไวยากรณ์ตัวกรอง Hola AdBlock</a>"
   },
   "found_a_bug": {
-    "message": "เจอบั๊กใช่หรือไม่ หรือต้องการเข้าร่วมการแปล Hola adblock เป็นภาษาของคุณเอง<a>ยื่นคำร้องได้ที่นี่</a>"
+    "message": "เจอบั๊กใช่หรือไม่ หรือต้องการเข้าร่วมการแปล Hola AdBlock เป็นภาษาของคุณเอง<a>ยื่นคำร้องได้ที่นี่</a>"
   },
   "general": {
     "message": "ทั่วไป"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola adblock รุ่นกำลังพัฒนา"
+    "message": "Hola AdBlock รุ่นกำลังพัฒนา"
   },
   "notification_configure": {
     "message": "ตั้งค่าการแจ้งเตือน"
@@ -116,7 +116,7 @@
     "message": "คลิกบนการแจ้งเตือนเพื่อเปิดลิงก์ทั้งหมด"
   },
   "options": {
-    "message": "ตัวเลือกของ Hola adblock"
+    "message": "ตัวเลือกของ Hola AdBlock"
   },
   "options_short": {
     "message": "ตัวเลือก"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "ดาวน์โหลด Hola adblock"
+    "message": "ดาวน์โหลด Hola AdBlock"
   },
   "stats_share_message": {
-    "message": "ฉันบล็อกโฆษณาและแทร็คเกอร์ไป $number$ อย่าง ขอบคุณ Hola adblock",
+    "message": "ฉันบล็อกโฆษณาและแทร็คเกอร์ไป $number$ อย่าง ขอบคุณ Hola AdBlock",
     "placeholders": {
       "number": {
         "content": "$1"

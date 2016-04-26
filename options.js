@@ -1,18 +1,18 @@
 /*
- * This file is part of Hola adblock <https://adblockplus.org/>,
+ * This file is part of Hola AdBlock <https://adblockplus.org/>,
  * Copyright (C) 2006-2016 Eyeo GmbH
  *
- * Hola adblock is free software: you can redistribute it and/or modify
+ * Hola AdBlock is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 3 as
  * published by the Free Software Foundation.
  *
- * Hola adblock is distributed in the hope that it will be useful,
+ * Hola AdBlock is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Hola adblock.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Hola AdBlock.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 var backgroundPage = ext.backgroundPage.getWindow();
@@ -45,7 +45,7 @@ var info = require("info");
 // Loads options from localStorage and sets UI elements accordingly
 function loadOptions()
 {
-  // Set page title to i18n version of "Hola adblock Options"
+  // Set page title to i18n version of "Hola AdBlock Options"
   document.title = i18n.getMessage("options");
 
   // Set links

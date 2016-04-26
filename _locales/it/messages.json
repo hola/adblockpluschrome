@@ -39,7 +39,7 @@
     "message": "<strong>Disattivato</strong> su questo sito"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock è disabilitato per i domini elencati di seguito. È possibile aggiungere un dominio tramite l'icona di Hola adblock nella barra degli indirizzi o digitando il dominio (non un URL) nella casella e facendo clic sul pulsante \"Aggiungi dominio\"."
+    "message": "Hola AdBlock è disabilitato per i domini elencati di seguito. È possibile aggiungere un dominio tramite l'icona di Hola AdBlock nella barra degli indirizzi o digitando il dominio (non un URL) nella casella e facendo clic sul pulsante \"Aggiungi dominio\"."
   },
   "easy_create_filter": {
     "message": "Blocca Elemento"
@@ -57,10 +57,10 @@
     "message": "Liste di filtri"
   },
   "filter_must_follow_syntax": {
-    "message": "Il tuo filtro deve rispettare la <a>sintassi dei filtri di Hola adblock</a>."
+    "message": "Il tuo filtro deve rispettare la <a>sintassi dei filtri di Hola AdBlock</a>."
   },
   "found_a_bug": {
-    "message": "Hai trovato un bug? Vuoi tradurre Hola adblock nella tua lingua? Per favore <a>compila questa rischiesta</a>."
+    "message": "Hai trovato un bug? Vuoi tradurre Hola AdBlock nella tua lingua? Per favore <a>compila questa rischiesta</a>."
   },
   "general": {
     "message": "Generale"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versione di sviluppo di Hola adblock"
+    "message": "Versione di sviluppo di Hola AdBlock"
   },
   "notification_configure": {
     "message": "Configura le impostazioni di notifica"
@@ -116,7 +116,7 @@
     "message": "Clic sulla notifica per aprire tutti i link contenuti."
   },
   "options": {
-    "message": "Opzioni di Hola adblock"
+    "message": "Opzioni di Hola AdBlock"
   },
   "options_short": {
     "message": "Opzioni"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Scarica Hola adblock"
+    "message": "Scarica Hola AdBlock"
   },
   "stats_share_message": {
-    "message": "Ho bloccato $number$ pubblicità e trackers grazie ad Hola adblock.",
+    "message": "Ho bloccato $number$ pubblicità e trackers grazie ad Hola AdBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

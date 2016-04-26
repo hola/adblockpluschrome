@@ -39,7 +39,7 @@
     "message": "Šiame puslapyje <strong>išjungta</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock žemiau išvardytiems domenams išjungtas. Pridėti domeną galite paspaudę Hola adblock piktogramą, adreso juostoje arba įvesdami domeną (ne URL) ir paspausdami „Pridėti domeną“ mygtuką."
+    "message": "Hola AdBlock žemiau išvardytiems domenams išjungtas. Pridėti domeną galite paspaudę Hola AdBlock piktogramą, adreso juostoje arba įvesdami domeną (ne URL) ir paspausdami „Pridėti domeną“ mygtuką."
   },
   "easy_create_filter": {
     "message": "Blokuoti elementą"
@@ -57,10 +57,10 @@
     "message": "Filtrų sąrašai"
   },
   "filter_must_follow_syntax": {
-    "message": "Jūsų filtras turi atitikti <a>Hola adblock filtrų sintaksę</a>."
+    "message": "Jūsų filtras turi atitikti <a>Hola AdBlock filtrų sintaksę</a>."
   },
   "found_a_bug": {
-    "message": "Radote klaidą? Norite išversti Hola adblock į savo kalbą? Užpildykite <a>prašymą čia</a>."
+    "message": "Radote klaidą? Norite išversti Hola AdBlock į savo kalbą? Užpildykite <a>prašymą čia</a>."
   },
   "general": {
     "message": "Bendra"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola adblock vystomasis leidimas"
+    "message": "Hola AdBlock vystomasis leidimas"
   },
   "notification_configure": {
     "message": "Konfigūruoti pranešimų nustatymus"
@@ -116,7 +116,7 @@
     "message": "Paspauskite ant pranešimo ir bus atvertos visos nuorodos jame."
   },
   "options": {
-    "message": "Hola adblock parinktys"
+    "message": "Hola AdBlock parinktys"
   },
   "options_short": {
     "message": "Parinktys"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Parsisiųsti Hola adblock"
+    "message": "Parsisiųsti Hola AdBlock"
   },
   "stats_share_message": {
-    "message": "Hola adblock dėka aš užblokavau $number$ reklamų.",
+    "message": "Hola AdBlock dėka aš užblokavau $number$ reklamų.",
     "placeholders": {
       "number": {
         "content": "$1"

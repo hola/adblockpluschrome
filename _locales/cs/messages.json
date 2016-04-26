@@ -39,7 +39,7 @@
     "message": "<strong>Zakázáno</strong> na této stránce"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock je zakázán pro níže uvedené domény. Doménu můžete přidat buď pomocí ikony Hola adblock v adresním řádku, nebo napsáním domény (ne URL) do pole a kliknutím na tlačítko \"Přidat doménu\"."
+    "message": "Hola AdBlock je zakázán pro níže uvedené domény. Doménu můžete přidat buď pomocí ikony Hola AdBlock v adresním řádku, nebo napsáním domény (ne URL) do pole a kliknutím na tlačítko \"Přidat doménu\"."
   },
   "easy_create_filter": {
     "message": "Blokovat prvek"
@@ -57,10 +57,10 @@
     "message": "Seznamy filtrů"
   },
   "filter_must_follow_syntax": {
-    "message": "Váš filtr musí odpovídat <a>syntaxi filtru Hola adblock</a>."
+    "message": "Váš filtr musí odpovídat <a>syntaxi filtru Hola AdBlock</a>."
   },
   "found_a_bug": {
-    "message": "Našli jste chybu? Chcete přeložit Hola adblock do svého jazyka? <a>Zde vyplňte žádost</a>, prosím."
+    "message": "Našli jste chybu? Chcete přeložit Hola AdBlock do svého jazyka? <a>Zde vyplňte žádost</a>, prosím."
   },
   "general": {
     "message": "Obecné"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Vývojové sestavení Hola adblock"
+    "message": "Vývojové sestavení Hola AdBlock"
   },
   "notification_configure": {
     "message": "Konfigurovat nastavení oznámení"
@@ -116,7 +116,7 @@
     "message": "Klepněte na oznámení pro otevření všech obsažených odkazů."
   },
   "options": {
-    "message": "Možnosti Hola adblock"
+    "message": "Možnosti Hola AdBlock"
   },
   "options_short": {
     "message": "Možnosti"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Stáhnout Hola adblock"
+    "message": "Stáhnout Hola AdBlock"
   },
   "stats_share_message": {
-    "message": "Zablokoval jsem $number$ reklam a slídilů díky Hola adblock.",
+    "message": "Zablokoval jsem $number$ reklam a slídilů díky Hola AdBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

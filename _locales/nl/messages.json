@@ -39,7 +39,7 @@
     "message": "<strong>Uitgeschakeld</strong> op deze site"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het Hola adblock logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
+    "message": "Hola AdBlock is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het Hola AdBlock logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
   },
   "easy_create_filter": {
     "message": "Element blokkeren"
@@ -60,7 +60,7 @@
     "message": "Je filter moet de <a>Adblock Plus filter syntax</a> volgen."
   },
   "found_a_bug": {
-    "message": "Heb je een bug gevonden? Wil je helpen Hola adblock te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
+    "message": "Heb je een bug gevonden? Wil je helpen Hola AdBlock te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
   },
   "general": {
     "message": "Algemeen"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola adblock experimentele versie"
+    "message": "Hola AdBlock experimentele versie"
   },
   "notification_configure": {
     "message": "Configureer notificatie instellingen"
@@ -116,7 +116,7 @@
     "message": "Klik op de melding om alle links erin te openen."
   },
   "options": {
-    "message": "Hola adblock opties"
+    "message": "Hola AdBlock opties"
   },
   "options_short": {
     "message": "Opties"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Hola adblock downloaden"
+    "message": "Hola AdBlock downloaden"
   },
   "stats_share_message": {
-    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij Hola adblock.",
+    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij Hola AdBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -39,7 +39,7 @@
     "message": "<strong>Онемогући</strong> на овом сајту"
   },
   "disabled_for_these_domains": {
-    "message": "Hola adblock не важи за доленаведене домене. Нови домен можете додати путем иконе Hola adblock-а или тако што ћете унети домен (не URL) у поље и кликнути на дугме „Додај домен“."
+    "message": "Hola AdBlock не важи за доленаведене домене. Нови домен можете додати путем иконе Hola AdBlock-а или тако што ћете унети домен (не URL) у поље и кликнути на дугме „Додај домен“."
   },
   "easy_create_filter": {
     "message": "Блокирај елемент"
@@ -57,10 +57,10 @@
     "message": "Спискови филтера"
   },
   "filter_must_follow_syntax": {
-    "message": "Ваш филтер мора да следи <a>синтаксу за филтере Hola adblock-а</a>."
+    "message": "Ваш филтер мора да следи <a>синтаксу за филтере Hola AdBlock-а</a>."
   },
   "found_a_bug": {
-    "message": "Пронашли сте грешку или желите да преведете Hola adblock на свој језик? <a>Овде поднесите захтев</a>."
+    "message": "Пронашли сте грешку или желите да преведете Hola AdBlock на свој језик? <a>Овде поднесите захтев</a>."
   },
   "general": {
     "message": "Опште"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Развојна верзија Hola adblock-а"
+    "message": "Развојна верзија Hola AdBlock-а"
   },
   "notification_configure": {
     "message": "Подеси поставке обавештавања"
@@ -116,7 +116,7 @@
     "message": "Кликните на обавештење да бисте отворили све везе у њему."
   },
   "options": {
-    "message": "Опције Hola adblock-а"
+    "message": "Опције Hola AdBlock-а"
   },
   "options_short": {
     "message": "Опције"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Преузми Hola adblock"
+    "message": "Преузми Hola AdBlock"
   },
   "stats_share_message": {
-    "message": "Блокирао сам $number$ огласа и пратилаца захваљујући Hola adblock-у.",
+    "message": "Блокирао сам $number$ огласа и пратилаца захваљујући Hola AdBlock-у.",
     "placeholders": {
       "number": {
         "content": "$1"
