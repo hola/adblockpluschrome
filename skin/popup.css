@@ -275,6 +275,9 @@ body.disabled #enabled #enabled-no
 #show-iconnumber {
   position: absolute;
   left: -20px;
+  top: 1px;
+  bottom: 0;
+  margin: auto;
 }
 
 #share
