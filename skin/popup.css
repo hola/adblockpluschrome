@@ -52,7 +52,7 @@ header
 
 #wrapper
 {
-  padding: 0px 20px;
+  padding: 0px 20px 25px 20px;
 }
 
 #notification, #menu
@@ -161,6 +161,65 @@ footer .logo
   height: 25px;
   background-position: 0 -25px;
   display: inline-block;
+}
+
+.ext-promo {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  font-size: 14px;
+}
+
+.ext-promo-desc { .box-link; }
+
+.ext-promo-items {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  align-items: flex-end;
+  width: 80px;
+}
+
+.ext-promo-items a {
+  width: 30px;
+  height: 30px;
+  display: block;
+  background-size: 100% 100%;
+  transition: transform 200ms ease-in;
+  backface-visibility: hidden;
+}
+
+.ext-promo-items a:hover {
+  transform: scale(1.1);
+}
+.promo-va {
+  background-image: url('icon_va.svg');
+}
+.promo-vpn {
+  background-image: url('icon_vpn.svg');
+}
+
+.box-link {
+  color: #00b7f1;
+  /* fix cut shadow at start of block in ie
+     http://stackoverflow.com/q/12713492 */
+  outline: 3px solid transparent;
+  /* fix white outline between block and shadow in ie
+     http://stackoverflow.com/q/7001889 */
+  border: 1px solid transparent;
+  text-decoration: none;
+}
+.box-link:hover {
+  background-color: #00b7f1;
+  color: #ffffff;;
+  border-color: #00b7f1;
+  text-decoration: none;
+  box-shadow: #00b7f1 -2px 0 0 1px, #00b7f1 2px 0 0 1px;
+  position: relative;
+  border-radius: 0.15em;
 }
 
 ul

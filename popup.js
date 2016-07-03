@@ -68,10 +68,10 @@ function onLoad()
 
   document.getElementById("enabled").addEventListener("click", toggleEnabled, false);
   document.getElementById("clickhide-cancel").addEventListener("click", cancelClickHide, false);
-  document.getElementById("options").addEventListener("click", function()
-  {
-    ext.showOptions();
-  }, false);
+  // document.getElementById("options").addEventListener("click", function()
+  // {
+  //   ext.showOptions();
+  // }, false);
 
   // Set up collapsing of menu items
   var collapsers = document.getElementsByClassName("collapse");
