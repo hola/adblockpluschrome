@@ -180,7 +180,7 @@ footer .logo
   flex-flow: row nowrap;
   justify-content: space-around;
   align-items: flex-end;
-  width: 80px;
+  width: 110px;
 }
 
 .ext-promo-items a {
@@ -195,11 +195,17 @@ footer .logo
 .ext-promo-items a:hover {
   transform: scale(1.1);
 }
+
 .promo-va {
   background-image: url('icon_va.svg');
 }
+
 .promo-vpn {
   background-image: url('icon_vpn.svg');
+}
+
+.promo-android {
+  background-image: url('icon_android.svg');
 }
 
 .box-link {
