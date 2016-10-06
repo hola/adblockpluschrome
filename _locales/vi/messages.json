@@ -39,7 +39,7 @@
     "message": "<strong>Đã loại bỏ</strong> trên trang này"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock không hoạt động ở các tên miền dưới đây. Bạn có thể thêm một tên miền bằng cách bấm vào biểu tượng Hola AdBlock nằm trên thanh địa chỉ, hoặc gõ tên miền (không phải là URL) trong khung bên dưới và ấn nút \"Thêm tên miền\"."
+    "message": "Hola ad blocker không hoạt động ở các tên miền dưới đây. Bạn có thể thêm một tên miền bằng cách bấm vào biểu tượng Hola ad blocker nằm trên thanh địa chỉ, hoặc gõ tên miền (không phải là URL) trong khung bên dưới và ấn nút \"Thêm tên miền\"."
   },
   "easy_create_filter": {
     "message": "Chặn phần từ"
@@ -57,10 +57,10 @@
     "message": "Danh sách các bộ lọc"
   },
   "filter_must_follow_syntax": {
-    "message": "Bộ lọc của bạn phải tuân theo <a>cú pháp bộ lọc của Hola AdBlockx</a>."
+    "message": "Bộ lọc của bạn phải tuân theo <a>cú pháp bộ lọc của Hola ad blockerx</a>."
   },
   "found_a_bug": {
-    "message": "Bạn phát hiện thấy lỗi? Bạn muốn dịch Hola AdBlock sang ngôn ngữ của bạn? Hãy <a>gửi yêu cầu tại đây</a>."
+    "message": "Bạn phát hiện thấy lỗi? Bạn muốn dịch Hola ad blocker sang ngôn ngữ của bạn? Hãy <a>gửi yêu cầu tại đây</a>."
   },
   "general": {
     "message": "Tổng quan"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock bản phát triển"
+    "message": "Hola ad blocker bản phát triển"
   },
   "notification_configure": {
     "message": "Cấu hình thiết lập thông báo"
@@ -116,7 +116,7 @@
     "message": "Nhấn vào thông báo để mở tất cả liên kết trong nó."
   },
   "options": {
-    "message": "Tuỳ chỉnh Hola AdBlock"
+    "message": "Tuỳ chỉnh Hola ad blocker"
   },
   "options_short": {
     "message": "Tùy chỉnh"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Tải Hola AdBlock"
+    "message": "Tải Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "Tôi đã chặn $number$ quảng cáo và những phần mềm theo dõi nhờ có Hola AdBlock.",
+    "message": "Tôi đã chặn $number$ quảng cáo và những phần mềm theo dõi nhờ có Hola ad blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

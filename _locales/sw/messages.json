@@ -39,7 +39,7 @@
     "message": "<strong>walemavu</strong> kwenye tovuti hii"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock pamoja ni walemavu kwa ajili ya nyanja hapa chini. Unaweza kuongeza miliki aidha kupitia Hola AdBlock pamoja na icon katika bar anwani au kwa kuandika miliki (sio URL) katika sanduku na kubonyeza \" kuongeza miliki \" kifungo ."
+    "message": "Hola ad blocker pamoja ni walemavu kwa ajili ya nyanja hapa chini. Unaweza kuongeza miliki aidha kupitia Hola ad blocker pamoja na icon katika bar anwani au kwa kuandika miliki (sio URL) katika sanduku na kubonyeza \" kuongeza miliki \" kifungo ."
   },
   "easy_create_filter": {
     "message": "kuzuia kipengele"
@@ -57,10 +57,10 @@
     "message": "filter listd"
   },
   "filter_must_follow_syntax": {
-    "message": "Filter yako lazima kufuata <a> Hola AdBlock chujio syntax </a> ."
+    "message": "Filter yako lazima kufuata <a> Hola ad blocker chujio syntax </a> ."
   },
   "found_a_bug": {
-    "message": "Kupatikana mdudu ? Wanataka kutafsiri Hola AdBlock katika lugha yako ? Tafadhali <a> faili ombi hapa </a> ."
+    "message": "Kupatikana mdudu ? Wanataka kutafsiri Hola ad blocker katika lugha yako ? Tafadhali <a> faili ombi hapa </a> ."
   },
   "general": {
     "message": "ujumla"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock pamoja na maendeleo ya kujenga"
+    "message": "Hola ad blocker pamoja na maendeleo ya kujenga"
   },
   "notification_with_buttons": {
     "message": "Bonyeza 'OK' kufungua viungo vyote katika taarifa hii."
@@ -110,7 +110,7 @@
     "message": "Bonyeza kwenye taarifa ya kufungua viungo vyote ndani yake."
   },
   "options": {
-    "message": "Hola AdBlock options"
+    "message": "Hola ad blocker options"
   },
   "options_short": {
     "message": "chaguzi"

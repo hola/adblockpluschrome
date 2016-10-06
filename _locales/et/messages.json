@@ -39,7 +39,7 @@
     "message": "<strong>Keelatud</strong> sellel saidil"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock on loetletud domeenidel keelatud. Domeene saate lisada Hola AdBlock ikoonil aadressiriba kõrval või kirjutades domeeni nime (mitte URL-i) lahtrisse ja klõpsates \"Lisa domeen\" nuppu."
+    "message": "Hola ad blocker on loetletud domeenidel keelatud. Domeene saate lisada Hola ad blocker ikoonil aadressiriba kõrval või kirjutades domeeni nime (mitte URL-i) lahtrisse ja klõpsates \"Lisa domeen\" nuppu."
   },
   "easy_create_filter": {
     "message": "Blokeeri element"
@@ -57,10 +57,10 @@
     "message": "Filtrite nimekirjad"
   },
   "filter_must_follow_syntax": {
-    "message": "Teie filter peab järgima <a>Hola AdBlock filtri süntaksit</a>."
+    "message": "Teie filter peab järgima <a>Hola ad blocker filtri süntaksit</a>."
   },
   "found_a_bug": {
-    "message": "Leidsid vea? Tahad tõlkida Hola AdBlock'i enda keelde? <a>Esita veateade</a>."
+    "message": "Leidsid vea? Tahad tõlkida Hola ad blocker'i enda keelde? <a>Esita veateade</a>."
   },
   "general": {
     "message": "Üldine"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock arendusväljalase"
+    "message": "Hola ad blocker arendusväljalase"
   },
   "notification_configure": {
     "message": "Muuda teavitusi"
@@ -116,7 +116,7 @@
     "message": "Klõpsake teatel, et avada kõik sisalduvad lingid."
   },
   "options": {
-    "message": "Hola AdBlock valikud"
+    "message": "Hola ad blocker valikud"
   },
   "options_short": {
     "message": "Valikud"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lae Hola AdBlock"
+    "message": "Lae Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "Olen tänu Hola AdBlockile blokeerinud $number$ reklaami ja jälgimisküsist.",
+    "message": "Olen tänu Hola ad blockerile blokeerinud $number$ reklaami ja jälgimisküsist.",
     "placeholders": {
       "number": {
         "content": "$1"

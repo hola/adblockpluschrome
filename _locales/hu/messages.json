@@ -39,7 +39,7 @@
     "message": "<strong>Kikapcsolva</strong> ezen a weboldalon"
   },
   "disabled_for_these_domains": {
-    "message": "Az Hola AdBlock le van tiltva az alább felsorolt oldalakon. Egy domaint megadhatsz az Hola AdBlock ikonra kattintva a címsorban, vagy beírhatod a domaint (nem az URL-t) a dobozba és kattints a \"Domain hozzáadása\" gombra."
+    "message": "Az Hola ad blocker le van tiltva az alább felsorolt oldalakon. Egy domaint megadhatsz az Hola ad blocker ikonra kattintva a címsorban, vagy beírhatod a domaint (nem az URL-t) a dobozba és kattints a \"Domain hozzáadása\" gombra."
   },
   "easy_create_filter": {
     "message": "Elem blokkolása"
@@ -57,10 +57,10 @@
     "message": "Szűrő lista"
   },
   "filter_must_follow_syntax": {
-    "message": "A szűrőd kövesse az <a>Hola AdBlock szintaxisát</a>."
+    "message": "A szűrőd kövesse az <a>Hola ad blocker szintaxisát</a>."
   },
   "found_a_bug": {
-    "message": "Találtál egy hibát az Hola AdBlock-ban? Kérlek <a>jelentsd itt</a>."
+    "message": "Találtál egy hibát az Hola ad blocker-ban? Kérlek <a>jelentsd itt</a>."
   },
   "general": {
     "message": "Általános"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock fejlesztői változat"
+    "message": "Hola ad blocker fejlesztői változat"
   },
   "notification_configure": {
     "message": "Értesítési beállítások konfigurálása"
@@ -116,7 +116,7 @@
     "message": "Kattints az értesítésre a benne lévő összes link megnyitásához."
   },
   "options": {
-    "message": "Hola AdBlock beállítások"
+    "message": "Hola ad blocker beállítások"
   },
   "options_short": {
     "message": "Beállítások"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Hola AdBlock letöltése"
+    "message": "Hola ad blocker letöltése"
   },
   "stats_share_message": {
-    "message": "Kiszűrtem $number$ hirdetést és nyomkövetőt az Hola AdBlocknak köszönhetően.",
+    "message": "Kiszűrtem $number$ hirdetést és nyomkövetőt az Hola ad blockernak köszönhetően.",
     "placeholders": {
       "number": {
         "content": "$1"

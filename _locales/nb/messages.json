@@ -39,7 +39,7 @@
     "message": "<strong>Deaktivert</strong> på dette nettstedet"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock er deaktivert for domenene listet nedenfor. Du kan legge til et domene enten ved å trykke på Hola AdBlock-ikonet i adressefeltet, eller ved å skrive inn domenet (ikke via URL) i boksen og klikke på \"Legg til domene\"-knappen."
+    "message": "Hola ad blocker er deaktivert for domenene listet nedenfor. Du kan legge til et domene enten ved å trykke på Hola ad blocker-ikonet i adressefeltet, eller ved å skrive inn domenet (ikke via URL) i boksen og klikke på \"Legg til domene\"-knappen."
   },
   "easy_create_filter": {
     "message": "Blokkér element"
@@ -57,10 +57,10 @@
     "message": "Filterlister"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtrene må følge syntaksen til <a>Hola AdBlock-filtrene</a>."
+    "message": "Filtrene må følge syntaksen til <a>Hola ad blocker-filtrene</a>."
   },
   "found_a_bug": {
-    "message": "Har du funnet en feil? Vil du oversette Hola AdBlock til ditt eget språk? Vennligst <a>send en forespørsel hit</a>."
+    "message": "Har du funnet en feil? Vil du oversette Hola ad blocker til ditt eget språk? Vennligst <a>send en forespørsel hit</a>."
   },
   "general": {
     "message": "Generelt"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock utviklerutgave"
+    "message": "Hola ad blocker utviklerutgave"
   },
   "notification_configure": {
     "message": "Tilpass varslingsinnstillinger"
@@ -116,7 +116,7 @@
     "message": "Trykk på varselet for å åpne alle koblingene."
   },
   "options": {
-    "message": "Alternativer for Hola AdBlock"
+    "message": "Alternativer for Hola ad blocker"
   },
   "options_short": {
     "message": "Alternativer"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Last ned Hola AdBlock"
+    "message": "Last ned Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "Jeg blokkerte $number$ annonser og trackere, takket være Hola AdBlock.",
+    "message": "Jeg blokkerte $number$ annonser og trackere, takket være Hola ad blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

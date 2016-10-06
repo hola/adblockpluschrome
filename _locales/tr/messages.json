@@ -39,7 +39,7 @@
     "message": "Bu sitede <strong>devre dışı</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock aşağıdaki adresler için devre dışı bırakıldı. Adresleri adres çubuğundaki Adblock simgesinden ekleyebilir veya alan adını (URL'yi değil) kutucuğa yazıp \"Alan adını ekle\" butonuna tıklayabilirsin."
+    "message": "Hola ad blocker aşağıdaki adresler için devre dışı bırakıldı. Adresleri adres çubuğundaki Adblock simgesinden ekleyebilir veya alan adını (URL'yi değil) kutucuğa yazıp \"Alan adını ekle\" butonuna tıklayabilirsin."
   },
   "easy_create_filter": {
     "message": "Öğeyi Engelle"
@@ -57,10 +57,10 @@
     "message": "Filtre listesi"
   },
   "filter_must_follow_syntax": {
-    "message": "Eklediğiniz filtre <a>Hola AdBlock filtre kurallarına</a> uymak zorundadır."
+    "message": "Eklediğiniz filtre <a>Hola ad blocker filtre kurallarına</a> uymak zorundadır."
   },
   "found_a_bug": {
-    "message": "Hata mı buldunuz? Hola AdBlock'ı kendi dilinize mi çevirmek istiyorsunuz? Lütfen <a>buradan dosya isteyiniz</a>."
+    "message": "Hata mı buldunuz? Hola ad blocker'ı kendi dilinize mi çevirmek istiyorsunuz? Lütfen <a>buradan dosya isteyiniz</a>."
   },
   "general": {
     "message": "Genel"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock geliştirme sürümü"
+    "message": "Hola ad blocker geliştirme sürümü"
   },
   "notification_configure": {
     "message": "Bildirim ayarlarını yapılandırma"
@@ -116,7 +116,7 @@
     "message": "Bildirimdeki tüm bağlantıları açmak için bildirim üzerine tıklayın."
   },
   "options": {
-    "message": "Hola AdBlock Seçenekleri"
+    "message": "Hola ad blocker Seçenekleri"
   },
   "options_short": {
     "message": "Seçenekler"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Hola AdBlock'ı indir"
+    "message": "Hola ad blocker'ı indir"
   },
   "stats_share_message": {
-    "message": "$number$ reklamı ve izleyiciyi Hola AdBlock sayesinde engelledim.",
+    "message": "$number$ reklamı ve izleyiciyi Hola ad blocker sayesinde engelledim.",
     "placeholders": {
       "number": {
         "content": "$1"

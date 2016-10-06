@@ -39,7 +39,7 @@
     "message": "<strong>Poistettu</strong> tältä sivulta"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock ei estä mainoksia sivuilla jotka ovat alla listattuna. Voit lisätä sivun joko Hola AdBlock kuvakkeesta osoiteriviltä tai kirjoittamalla sivun (ei osoitetta) laatikkoon ja klikkaamalla \"lisää sivu\" nappia."
+    "message": "Hola ad blocker ei estä mainoksia sivuilla jotka ovat alla listattuna. Voit lisätä sivun joko Hola ad blocker kuvakkeesta osoiteriviltä tai kirjoittamalla sivun (ei osoitetta) laatikkoon ja klikkaamalla \"lisää sivu\" nappia."
   },
   "easy_create_filter": {
     "message": "Estä elementti"
@@ -57,10 +57,10 @@
     "message": "Suodatinlistat"
   },
   "filter_must_follow_syntax": {
-    "message": "Suodattimesi on noudatettava <a>Hola AdBlock suodattimen syntaksia</a>."
+    "message": "Suodattimesi on noudatettava <a>Hola ad blocker suodattimen syntaksia</a>."
   },
   "found_a_bug": {
-    "message": "Löysitkö vian? Haluatko kääntää Hola AdBlockin omalle kielellesi? Ole hyvä ja <a>kirjoita hakemus täällä</a>."
+    "message": "Löysitkö vian? Haluatko kääntää Hola ad blockerin omalle kielellesi? Ole hyvä ja <a>kirjoita hakemus täällä</a>."
   },
   "general": {
     "message": "Yleiset"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock kehittäjän versio"
+    "message": "Hola ad blocker kehittäjän versio"
   },
   "notification_configure": {
     "message": "Määritä ilmoitusasetukset"
@@ -116,7 +116,7 @@
     "message": "Napsauttamalla ilmoitusta voit avata kaikki linkit siitä."
   },
   "options": {
-    "message": "Hola AdBlock asetukset"
+    "message": "Hola ad blocker asetukset"
   },
   "options_short": {
     "message": "Asetukset"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lataa Hola AdBlock"
+    "message": "Lataa Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "Estin $number$ mainosta ja trackeriä kiitos Hola AdBlock;an.",
+    "message": "Estin $number$ mainosta ja trackeriä kiitos Hola ad blocker;an.",
     "placeholders": {
       "number": {
         "content": "$1"

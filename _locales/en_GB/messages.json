@@ -39,7 +39,7 @@
     "message": "<strong>Disabled</strong> on this site"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock is disabled for the domains listed below. You can add a domain either via the Hola AdBlock icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
+    "message": "Hola ad blocker is disabled for the domains listed below. You can add a domain either via the Hola ad blocker icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
   },
   "easy_create_filter": {
     "message": "Block element"
@@ -60,7 +60,7 @@
     "message": "Your filter must follow the <a>Adblock Plus filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Found a bug? Want to translate Hola AdBlock into your language? Please <a>file a request here</a>."
+    "message": "Found a bug? Want to translate Hola ad blocker into your language? Please <a>file a request here</a>."
   },
   "general": {
     "message": "General"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock development build"
+    "message": "Hola ad blocker development build"
   },
   "notification_configure": {
     "message": "Configure notification settings"
@@ -116,7 +116,7 @@
     "message": "Click on the notification to open all links in it."
   },
   "options": {
-    "message": "Hola AdBlock Options"
+    "message": "Hola ad blocker Options"
   },
   "options_short": {
     "message": "Options"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Download Hola AdBlock"
+    "message": "Download Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "I blocked $number$ ads and trackers thanks to Hola AdBlock.",
+    "message": "I blocked $number$ ads and trackers thanks to Hola ad blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

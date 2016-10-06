@@ -39,7 +39,7 @@
     "message": "<strong>מנוטרל</strong> באתר זה"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock מנוטרל עבור שמות המתחם המופיעים להלן. ניתן להוסיף שם מתחם או דרך הסמל של Hola AdBlock שבשורת הכתובות או על ידי הקלדת שם המתחם (לא הכתובת) בתיבה וללחוץ על הלחצן \"הוספת שם מתחם\"."
+    "message": "Hola ad blocker מנוטרל עבור שמות המתחם המופיעים להלן. ניתן להוסיף שם מתחם או דרך הסמל של Hola ad blocker שבשורת הכתובות או על ידי הקלדת שם המתחם (לא הכתובת) בתיבה וללחוץ על הלחצן \"הוספת שם מתחם\"."
   },
   "easy_create_filter": {
     "message": "חסימת אלמנט"
@@ -57,10 +57,10 @@
     "message": "רשימות המסננים"
   },
   "filter_must_follow_syntax": {
-    "message": "המסנן שלכם חייב לציית <a>לתחביר סינון Hola AdBlock</a>."
+    "message": "המסנן שלכם חייב לציית <a>לתחביר סינון Hola ad blocker</a>."
   },
   "found_a_bug": {
-    "message": "מצאת באג? ברצונך לתרגם את Hola AdBlock לשפתך? אנא <a>הגישו בקשתכם כאן</a>."
+    "message": "מצאת באג? ברצונך לתרגם את Hola ad blocker לשפתך? אנא <a>הגישו בקשתכם כאן</a>."
   },
   "general": {
     "message": "כללי"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "גרסאות פיתוח Hola AdBlock"
+    "message": "גרסאות פיתוח Hola ad blocker"
   },
   "notification_configure": {
     "message": "קביעת תצורת הגדרות ההתראה"
@@ -116,7 +116,7 @@
     "message": "לחיצה על התראה לפתיחת כל הקישורים שבתוכה."
   },
   "options": {
-    "message": "אפשרויות Hola AdBlock"
+    "message": "אפשרויות Hola ad blocker"
   },
   "options_short": {
     "message": "אפשרויות"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "הורדת Hola AdBlock"
+    "message": "הורדת Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "אני חסמתי $number$ פרסומות ועוקבים הודות ל-Hola AdBlock.",
+    "message": "אני חסמתי $number$ פרסומות ועוקבים הודות ל-Hola ad blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

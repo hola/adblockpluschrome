@@ -39,7 +39,7 @@
     "message": "આં સાઈટ પર <strong>ડિસેબલ</strong> કરો"
   },
   "disabled_for_these_domains": {
-    "message": "નીચે આપેલ ડોમેઈન  માટે Hola AdBlock ડિસેબલ કરેલ છે. તમે એડ્રેસ બાર નાં Hola AdBlock આઇકોન દ્વારા અથવા બોક્સમાં ડોમેઈન (નહીં કે URL) ટાઇપ કરી  \"ડોમેઈન ઊમેરો\" બટન ક્લિક કરીને સાઈટ ઉમેરી શકો છો."
+    "message": "નીચે આપેલ ડોમેઈન  માટે Hola ad blocker ડિસેબલ કરેલ છે. તમે એડ્રેસ બાર નાં Hola ad blocker આઇકોન દ્વારા અથવા બોક્સમાં ડોમેઈન (નહીં કે URL) ટાઇપ કરી  \"ડોમેઈન ઊમેરો\" બટન ક્લિક કરીને સાઈટ ઉમેરી શકો છો."
   },
   "easy_create_filter": {
     "message": "બ્લોક એલિમેન્ટ"
@@ -57,10 +57,10 @@
     "message": "ફિલ્ટરની લીસ્ટ"
   },
   "filter_must_follow_syntax": {
-    "message": "તમારું ફિલ્ટર <a>Hola AdBlock ફિલ્ટર સિન્ટેક્સ</a>ફોલોવ કરવું જોઈએ."
+    "message": "તમારું ફિલ્ટર <a>Hola ad blocker ફિલ્ટર સિન્ટેક્સ</a>ફોલોવ કરવું જોઈએ."
   },
   "found_a_bug": {
-    "message": "કોઈ ભૂલ છે ? શું તમારી ભાષામાં Hola AdBlock ને રૂપાંતરિત કરવા માગો છો ? તમારી <a>રીક્વેસ્ટ અહીં આપો</a>."
+    "message": "કોઈ ભૂલ છે ? શું તમારી ભાષામાં Hola ad blocker ને રૂપાંતરિત કરવા માગો છો ? તમારી <a>રીક્વેસ્ટ અહીં આપો</a>."
   },
   "general": {
     "message": "સામાન્ય"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock ડેવલોપમેન્ટ બીલ્ડ"
+    "message": "Hola ad blocker ડેવલોપમેન્ટ બીલ્ડ"
   },
   "notification_with_buttons": {
     "message": "આ નોટીફીકેશનમાં બધી લીંક ખોલવા 'ઓકે' પર ક્લિક કરો."
@@ -110,7 +110,7 @@
     "message": "નોટીફીકેશનમાં બધી લીંક ખોલવા તેનાં પર ક્લિક કરો."
   },
   "options": {
-    "message": "Hola AdBlock ઓપ્શન્સ"
+    "message": "Hola ad blocker ઓપ્શન્સ"
   },
   "options_short": {
     "message": "ઓપ્શન્સ"
@@ -149,10 +149,10 @@
     }
   },
   "stats_share_download": {
-    "message": "ડાઉનલોડ Hola AdBlock"
+    "message": "ડાઉનલોડ Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "મેં $number$ એડ્સ અને ટ્રેકરબ્લોક કર્યા Hola AdBlockનો આભાર.",
+    "message": "મેં $number$ એડ્સ અને ટ્રેકરબ્લોક કર્યા Hola ad blockerનો આભાર.",
     "placeholders": {
       "number": {
         "content": "$1"

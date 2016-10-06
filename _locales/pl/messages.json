@@ -39,7 +39,7 @@
     "message": "<strong>Wyłączony</strong> na tej stronie"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock jest wyłączony dla niżej wymienionych domen. Możesz dodać domenę, używając ikony Hola AdBlocka znajdującej się w pasku adresu lub wpisując domenę – nie adres URL – w polu i naciskając przycisk „Dodaj domenę”."
+    "message": "Hola ad blocker jest wyłączony dla niżej wymienionych domen. Możesz dodać domenę, używając ikony Hola ad blockera znajdującej się w pasku adresu lub wpisując domenę – nie adres URL – w polu i naciskając przycisk „Dodaj domenę”."
   },
   "easy_create_filter": {
     "message": "Blokuj element"
@@ -57,10 +57,10 @@
     "message": "Listy filtrów"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtr musi przestrzegać <a>składni filtra Hola AdBlocka</a>."
+    "message": "Filtr musi przestrzegać <a>składni filtra Hola ad blockera</a>."
   },
   "found_a_bug": {
-    "message": "Znalazłeś błąd? Chcesz przetłumaczyć Hola AdBlock na swój język? Zgłoś <a>tutaj</a>."
+    "message": "Znalazłeś błąd? Chcesz przetłumaczyć Hola ad blocker na swój język? Zgłoś <a>tutaj</a>."
   },
   "general": {
     "message": "Ogólne"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock – wersja rozwojowa"
+    "message": "Hola ad blocker – wersja rozwojowa"
   },
   "notification_configure": {
     "message": "Konfiguruj ustawienia powiadomień"
@@ -116,7 +116,7 @@
     "message": "Kliknij powiadomienie, aby otworzyć wszystkie znajdujące się w nim odnośniki."
   },
   "options": {
-    "message": "Hola AdBlock – ustawienia"
+    "message": "Hola ad blocker – ustawienia"
   },
   "options_short": {
     "message": "Opcje"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Pobierz Hola AdBlock"
+    "message": "Pobierz Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "Dzięki Hola AdBlock zablokowano $number$ reklam i tropicieli.",
+    "message": "Dzięki Hola ad blocker zablokowano $number$ reklam i tropicieli.",
     "placeholders": {
       "number": {
         "content": "$1"

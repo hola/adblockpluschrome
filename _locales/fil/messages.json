@@ -39,7 +39,7 @@
     "message": "<strong>Hindi Maaari</strong> sa site na ito"
   },
   "disabled_for_these_domains": {
-    "message": "Ang Hola AdBlock ay hindi gumagana sa mga nakalistang domains. Maaari kang magdagdag ng domain sa pamamagitan ng Hola AdBlock icon sa address bar o maaari ding ilagay ang domain (hindi URL) sa may kahon at pindutin ang \"Add domain\" button."
+    "message": "Ang Hola ad blocker ay hindi gumagana sa mga nakalistang domains. Maaari kang magdagdag ng domain sa pamamagitan ng Hola ad blocker icon sa address bar o maaari ding ilagay ang domain (hindi URL) sa may kahon at pindutin ang \"Add domain\" button."
   },
   "easy_create_filter": {
     "message": "Ihinto ang element"
@@ -60,7 +60,7 @@
     "message": "Ang iyong filter ay dapat nakasunod sa <a>Adblock Plus filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Nakadiskobre ng bug? Gusto mo bang isalin ang Hola AdBlock sa inyong wika? <a>ilagay ang inyong request dito</a>."
+    "message": "Nakadiskobre ng bug? Gusto mo bang isalin ang Hola ad blocker sa inyong wika? <a>ilagay ang inyong request dito</a>."
   },
   "general": {
     "message": "Pangkalahatan"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "pagbuo ng Hola AdBlock"
+    "message": "pagbuo ng Hola ad blocker"
   },
   "notification_configure": {
     "message": "I-configure ang mga setting ng notification"
@@ -116,7 +116,7 @@
     "message": "Pindutin ang notification para mabuksan ang mga links."
   },
   "options": {
-    "message": "Opsyon sa Hola AdBlock"
+    "message": "Opsyon sa Hola ad blocker"
   },
   "options_short": {
     "message": "Mga pagpipilian"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "I - download ang Hola AdBlock"
+    "message": "I - download ang Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "Napigilan ko ang $number$ ads at trackers salamat sa Hola AdBlock.",
+    "message": "Napigilan ko ang $number$ ads at trackers salamat sa Hola ad blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

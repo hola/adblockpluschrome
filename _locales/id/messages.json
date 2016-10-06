@@ -39,7 +39,7 @@
     "message": "<strong>Nonaktifkan</strong> pada situs ini"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon Hola AdBlock pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
+    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon Hola ad blocker pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
   },
   "easy_create_filter": {
     "message": "Blokir elemen"
@@ -57,10 +57,10 @@
     "message": "Daftar penyaring"
   },
   "filter_must_follow_syntax": {
-    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring Hola AdBlock</a>"
+    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring Hola ad blocker</a>"
   },
   "found_a_bug": {
-    "message": "Menemukan sebuah celah? Ingin menerjemahkan Hola AdBlock ke bahasa Anda? Silahkan  <a>minta sebuah berkas disini</a>."
+    "message": "Menemukan sebuah celah? Ingin menerjemahkan Hola ad blocker ke bahasa Anda? Silahkan  <a>minta sebuah berkas disini</a>."
   },
   "general": {
     "message": "Umum"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Struktur pengembangan Hola AdBlock"
+    "message": "Struktur pengembangan Hola ad blocker"
   },
   "notification_configure": {
     "message": "Mengatur pengaturan pemberitahuan"
@@ -116,7 +116,7 @@
     "message": "Klik pada pemberitahuan untuk membuka semua link di dalamnya."
   },
   "options": {
-    "message": "Pengaturan Hola AdBlock"
+    "message": "Pengaturan Hola ad blocker"
   },
   "options_short": {
     "message": "Pilihan"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Unduh Hola AdBlock"
+    "message": "Unduh Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "Saya memblokir $number$ iklan dan pelacak berkat Hola AdBlock.",
+    "message": "Saya memblokir $number$ iklan dan pelacak berkat Hola ad blocker.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -1,9 +1,9 @@
-Hola AdBlock for Chrome, Opera and Safari
+Hola ad blocker for Chrome, Opera and Safari
 =========================================
 
-This repository contains the platform-specific Hola AdBlock source code for
-Chrome, Opera and Safari. It can be used to build Hola AdBlock for these
-platforms, generic Hola AdBlock code will be extracted from other repositories
+This repository contains the platform-specific Hola ad blocker source code for
+Chrome, Opera and Safari. It can be used to build Hola ad blocker for these
+platforms, generic Hola ad blocker code will be extracted from other repositories
 automatically (see _dependencies_ file).
 
 Building

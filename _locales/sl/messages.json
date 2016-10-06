@@ -39,7 +39,7 @@
     "message": "<strong>Omogočeno</strong> na tej strani"
   },
   "disabled_for_these_domains": {
-    "message": "Hola AdBlock je onemogočeno področjih, navedenih spodaj. Lahko dodate domeno bodisi prek ikone Hola AdBlock v naslovni vrstici ali jih vnesete domeno (ne URL) v polje in s klikom na gumb \"Dodaj domeno\"."
+    "message": "Hola ad blocker je onemogočeno področjih, navedenih spodaj. Lahko dodate domeno bodisi prek ikone Hola ad blocker v naslovni vrstici ali jih vnesete domeno (ne URL) v polje in s klikom na gumb \"Dodaj domeno\"."
   },
   "easy_create_filter": {
     "message": "Blokiraj element"
@@ -60,7 +60,7 @@
     "message": "Vaš filter je treba slediti <a>Adblock Plus filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Ste našli hrošča? Želite prevesti Hola AdBlock v vaš jezik? Prosimo <a>oddajte zahtevo tukaj</a>."
+    "message": "Ste našli hrošča? Želite prevesti Hola ad blocker v vaš jezik? Prosimo <a>oddajte zahtevo tukaj</a>."
   },
   "general": {
     "message": "Splošno"
@@ -101,7 +101,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Hola AdBlock razvojna različica"
+    "message": "Hola ad blocker razvojna različica"
   },
   "notification_configure": {
     "message": "Konfigurirajte nastavitve obveščanja"
@@ -116,7 +116,7 @@
     "message": "Kliknite na obvestilo, da odprete vse povezeave v njem."
   },
   "options": {
-    "message": "Hola AdBlock možnosti"
+    "message": "Hola ad blocker možnosti"
   },
   "options_short": {
     "message": "Možnosti"
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Prenesi Hola AdBlock"
+    "message": "Prenesi Hola ad blocker"
   },
   "stats_share_message": {
-    "message": "Blokiral sem $number$ oglasov in sledilcev z Hola AdBlock.",
+    "message": "Blokiral sem $number$ oglasov in sledilcev z Hola ad blocker.",
     "placeholders": {
       "number": {
         "content": "$1"
