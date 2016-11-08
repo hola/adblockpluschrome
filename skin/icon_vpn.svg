@@ -1,112 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" enable-background="new 0 0 512 512">
-  <radialGradient id="a" cx="-79.826" cy="431.752" r="80.319" gradientTransform="matrix(4.785 0 0 -4.785 676.17 2449.552)" gradientUnits="userSpaceOnUse">
-    <stop offset=".05" stop-color="#efac00"/>
-    <stop offset=".174" stop-color="#eb9100"/>
-    <stop offset=".4" stop-color="#e15600"/>
-    <stop offset=".63" stop-color="#c82400"/>
-    <stop offset=".716" stop-color="#b91200"/>
-    <stop offset=".813" stop-color="#ae0500"/>
-    <stop offset=".9" stop-color="#a00"/>
-  </radialGradient>
-  <path fill="url(#a)" d="M446 325.5c2.4-35.9-11-95.2-20.6-125.8-10-30.6 10.5-67.5 10.5-67.5s-9.6.5-33 21.1S379 203 379 203c-27.8-65.6-84.7-107.7-105.7-135.9C252.2 38.8 267 2 267 2c-42.1 18.2-64.1 64.1-70.3 118.2-6.2 54.1-40.7 74.2-40.7 74.2-5.7-50.7-63.2-63.6-63.2-63.6 12 4.3 32.5 62.7 10.5 105.3-14.8 28.7-23.4 59.3-23.4 90 0 101 64.1 183.3 183.3 183.3 108.6-.7 182.8-82.5 182.8-183.9z"/>
-  <defs>
-    <filter id="b" filterUnits="userSpaceOnUse" x="255.2" y="2.5" width="191.1" height="494.3">
-      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
-    </filter>
-  </defs>
-  <mask maskUnits="userSpaceOnUse" x="255.2" y="2.5" width="191.1" height="494.3" id="d">
-    <g filter="url(#b)">
-      <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="-69.95" y1="402.982" x2="-69.95" y2="512.182" gradientTransform="matrix(4.785 0 0 -4.785 676.17 2449.944)">
-        <stop offset="0" stop-color="#fff"/>
-        <stop offset="1"/>
-      </linearGradient>
-      <path fill="url(#c)" d="M225.4-.9h232.1v522.5H225.4z"/>
+<svg id="icon_vpn_Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 30">
+  <style>
+    .icon_vpn_0{fill:url(#icon_vpn_Body_1_)}
+  </style>
+  <switch>
+    <g>
+      <radialGradient id="icon_vpn_Body_1_" cx="8.422" cy="1140.557" r="22.738" gradientTransform="matrix(1.0056 0 0 1 5.405 -1117.972)" gradientUnits="userSpaceOnUse">
+        <stop offset=".05" stop-color="#f8af00"/>
+        <stop offset=".174" stop-color="#f29100"/>
+        <stop offset=".4" stop-color="#e95a0c"/>
+        <stop offset=".63" stop-color="#d10a11"/>
+        <stop offset=".797" stop-color="#bf0d0d"/>
+        <stop offset=".956" stop-color="#ad0f0a"/>
+      </radialGradient>
+      <path id="icon_vpn_Body_3_" class="icon_vpn_0" d="M22.9 19.2c.1-2.1-.6-5.6-1.2-7.5-.6-1.8.6-4 .6-4s-.6 0-2 1.3c-1.4 1.2-1.4 2.9-1.4 2.9-1.7-3.9-5-6.4-6.3-8-1.3-1.7-.4-3.9-.4-3.9C9.7 1.1 8.4 3.8 8 7c-.4 3.2-2.4 4.4-2.4 4.4-.3-3-3.8-3.8-3.8-3.8.7.2 1.9 3.7.6 6.2-.9 1.7-1.4 3.5-1.4 5.3.1 6 3.9 10.9 11 10.9 6.5 0 10.9-4.9 10.9-10.8z"/>
+      <ellipse cx="15.5" cy="18" rx="1.5" ry="2"/>
+      <ellipse cx="8.5" cy="18" rx="1.5" ry="2"/>
+      <path d="M19 20c0 4-3 7-7 7s-7-3-7-7H4c0 4.4 3.5 8 8 8s8-3.6 8-8h-1z"/>
     </g>
-  </mask>
-  <path opacity=".2" mask="url(#d)" fill="#FDD910" enable-background="new" d="M425.4 199.6c-10-30.6 10.5-67.5 10.5-67.5s-9.6.5-33 21.1S379 203 379 203c-27.8-65.6-84.7-107.7-105.7-135.9C258 46.5 260.8 18.7 267 2.5c-10.5 20.6-34 56.9 42.1 140.2 93.3 91.9 127.3 155 108.6 246.4-11 54.1-42.1 73.7-84.2 106.7-.5.5-1 .5-1.4 1C402 470.5 446 403.9 446 325.5c2.4-35.9-10.5-95.3-20.6-125.9z"/>
-  <defs>
-    <filter id="e" filterUnits="userSpaceOnUse" x="80" y="1.5" width="187.1" height="441.7">
-      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
-    </filter>
-  </defs>
-  <mask maskUnits="userSpaceOnUse" x="80" y="1.5" width="187.1" height="441.7" id="g">
-    <g filter="url(#e)">
-      <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="1382.612" y1="416.04" x2="1347.696" y2="511.97" gradientTransform="rotate(180 3357.449 1224.972) scale(4.785)">
-        <stop offset="0"/>
-        <stop offset=".123" stop-color="#040404"/>
-        <stop offset=".248" stop-color="#101010"/>
-        <stop offset=".374" stop-color="#252525"/>
-        <stop offset=".502" stop-color="#414141"/>
-        <stop offset=".629" stop-color="#666"/>
-        <stop offset=".757" stop-color="#939393"/>
-        <stop offset=".884" stop-color="#c8c8c8"/>
-        <stop offset="1" stop-color="#fff"/>
-      </linearGradient>
-      <path fill="url(#f)" d="M68.5-14.3h216.3v520.6H68.5z"/>
-    </g>
-  </mask>
-  <path opacity=".8" mask="url(#g)" fill="#A10200" enable-background="new" d="M80 325.5c0 45 12.4 86.1 37.3 117.7-18.7-41.6-34-109.6-9.1-158.9 45.5-90.9 115.8-91.9 113.4-165.1C219.2 48.9 263.7 4.9 267 1.5c-42.1 18.2-64.1 64.1-70.3 118.2S156 193.9 156 193.9c-5.7-50.7-63.2-63.6-63.2-63.6 12 4.3 32.5 62.7 10.5 105.3C88.6 264.7 80 295.3 80 325.5z"/>
-  <defs>
-    <filter id="h" filterUnits="userSpaceOnUse" x="80.4" y="130.7" width="45.8" height="308.6">
-      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
-    </filter>
-  </defs>
-  <mask maskUnits="userSpaceOnUse" x="80.4" y="130.7" width="45.8" height="308.6" id="j">
-    <g filter="url(#h)">
-      <linearGradient id="i" gradientUnits="userSpaceOnUse" x1="1381.95" y1="415.582" x2="1381.95" y2="486.382" gradientTransform="rotate(180 3357.449 1224.972) scale(4.785)">
-        <stop offset="0"/>
-        <stop offset="1" stop-color="#fff"/>
-      </linearGradient>
-      <path fill="url(#i)" d="M64.2 122.6h76.1v338.8H64.2z"/>
-    </g>
-  </mask>
-  <path opacity=".8" fill="#D42400" enable-background="new" d="M122.5 226.4c13.9-45.5-15.3-91.4-29.2-95.7 12 4.3 32.5 62.7 10.5 105.3-14.8 28.7-23.4 59.3-23.4 90 0 42.6 11.5 81.8 33.5 113.4-59.3-124-5.2-167.5 8.6-213z" mask="url(#j)"/>
-  <defs>
-    <filter id="k" filterUnits="userSpaceOnUse" x="324" y="132.2" width="122.3" height="367">
-      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
-    </filter>
-  </defs>
-  <mask maskUnits="userSpaceOnUse" x="324" y="132.2" width="122.3" height="367" id="m">
-    <g filter="url(#k)">
-      <linearGradient id="l" gradientUnits="userSpaceOnUse" x1="1326.15" y1="403.932" x2="1326.15" y2="485.794" gradientTransform="rotate(180 3357.449 1224.972) scale(4.785)">
-        <stop offset="0"/>
-        <stop offset="1" stop-color="#fff"/>
-      </linearGradient>
-      <path fill="url(#l)" d="M282.4 123.5h173.7v388.1H282.4z"/>
-    </g>
-  </mask>
-  <path fill="#FD3B00" d="M425.4 199.6c-10-30.6 10.5-67.5 10.5-67.5-21.1 28.7-30.1 51.7-11 127.8 32.5 114.4-9.6 198.1-101 239.3 74.6-23.9 122-92.8 122-173.7 2.5-35.9-10.4-95.3-20.5-125.9z" opacity=".6" mask="url(#m)"/>
-  <defs>
-    <filter id="n" filterUnits="userSpaceOnUse" x="93.4" y="130.7" width="63.2" height="68.9">
-      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
-    </filter>
-  </defs>
-  <mask maskUnits="userSpaceOnUse" x="93.4" y="130.7" width="63.2" height="68.9" id="p">
-    <g filter="url(#n)">
-      <linearGradient id="o" gradientUnits="userSpaceOnUse" x1="-1416.527" y1="468.619" x2="-1423.441" y2="486.474" gradientTransform="matrix(4.785 0 0 -4.785 6922.244 2449.944)">
-        <stop offset="0"/>
-        <stop offset="1" stop-color="#fff"/>
-      </linearGradient>
-      <path fill="url(#o)" d="M92.4 124.5h71.3v83.3H92.4z"/>
-    </g>
-  </mask>
-  <path mask="url(#p)" fill="#FD3B00" d="M93.4 130.7c43.5 13.9 51.7 58.4 52.6 68.9 3.8-1 10.5-4.8 10.5-4.8-6.2-51.2-63.1-64.1-63.1-64.1z"/>
-  <defs>
-    <filter id="q" filterUnits="userSpaceOnUse" x="379" y="132.2" width="56.9" height="82.3">
-      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
-    </filter>
-  </defs>
-  <mask maskUnits="userSpaceOnUse" x="379" y="132.2" width="56.9" height="82.3" id="s">
-    <g filter="url(#q)">
-      <linearGradient id="r" gradientUnits="userSpaceOnUse" x1="1322.659" y1="464.857" x2="1314.495" y2="485.941" gradientTransform="rotate(180 3357.449 1224.972) scale(4.785)">
-        <stop offset="0"/>
-        <stop offset="1" stop-color="#fff"/>
-      </linearGradient>
-      <path fill="url(#r)" d="M370.4 124.5h68.9v104.3h-68.9z"/>
-    </g>
-  </mask>
-  <path mask="url(#s)" fill="#A10200" d="M385.2 214.5c6.2-2.4-1-46.9 50.7-82.3 0 0-9.6.5-33 21.1S379 203 379 203s5.3 9.5 6.2 11.5z"/>
-  <path d="M380.5 337.9c0 62.2-52.6 117.2-117.2 117.2S146 399.6 146 337.9h-19.6c0 74.6 61.2 136.9 136.9 136.9s136.9-62.2 136.9-136.9h-19.7z"/>
-  <ellipse cx="327.8" cy="301.1" rx="25.8" ry="35.9"/>
-  <ellipse cx="197.7" cy="301.1" rx="25.8" ry="35.9"/>
+  </switch>
 </svg>
