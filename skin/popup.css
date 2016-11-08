@@ -143,69 +143,131 @@ header
 
 footer
 {
-  cursor: pointer;
-  padding: 0 10px;
-  border-top: 1px solid #c5c5d0;
-  height:50px;
-  display: flex;
-  flex-flow: row;
-  justify-content: space-between;
-  align-items: center;
+  margin-top: 10px;
+  position: relative;
+  display: block;
+  padding: 4px 0 0;
+  line-height: normal;
+  border-top: 1px solid #dcdcdc;
+  border-radius 0 0 2px 2px;
+  white-space: nowrap;
 }
 
-
-footer .logo
-{
-  background: url('logo.png') no-repeat;
-  width: 62px;
-  height: 25px;
-  background-position: 0 -25px;
-  display: inline-block;
+.popup-footer-content {
+  box-sizing: border-box;
+  display: block;
+  height: 70px;
 }
 
-.ext-promo {
+.more-from-hola {
   display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
   align-items: center;
   height: 100%;
-  width: 100%;
-  font-size: 14px;
 }
 
-.ext-promo-desc { .box-link; }
+.more-from-hola-desc {
+  margin-bottom: 12px;
+}
 
-.ext-promo-items {
+.more-from-hola-items {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: flex-end;
-  width: 110px;
+  width: 100%;
+  position: relative;
+  padding: 0 10px;
+  box-sizing: border-box;
 }
 
-.ext-promo-items a {
+.more-from-hola-items a {
   width: 30px;
   height: 30px;
   display: block;
   background-size: 100% 100%;
-  transition: transform 200ms ease-in;
-  backface-visibility: hidden;
 }
 
-.ext-promo-items a:hover {
-  transform: scale(1.1);
+.more-from-hola-items a:hover .more-from-hola-tooltip {
+  z-index: 15;
+  opacity: 1;
 }
 
-.promo-va {
-  background-image: url('icon_va.svg');
+.more-from-hola-tooltip {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+  width: 90%;
+  height: 50px;
+  top: -62px;
+  left: 5%;
+  background: #efefef;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
 }
 
-.promo-vpn {
+.more-from-hola-tooltip:after {
+  content: ' ';
+  position: absolute;
+  bottom: -8px;
+  left: 8px;
+  width: 0;
+  height: 0;
+  border-right: 7px solid transparent;
+  border-top: 8px solid #efefef;
+}
+
+.more-from-hola-tooltip h2, .more-from-hola-tooltip p {
+  font-size: 12px;
+  margin: 0;
+  color: black;
+}
+
+.more-from-hola .more-vpn {
+  background-image: url('icon_vpn_disabled.svg');
+}
+.more-from-hola .more-vpn:hover {
   background-image: url('icon_vpn.svg');
 }
 
-.promo-android {
+.more-from-hola .more-vpn .more-from-hola-tooltip h2 {
+  color: #eb3a28;
+}
+
+.more-from-hola .more-vpn .more-from-hola-tooltip:after {
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.more-from-hola .more-va {
+  background-image: url('icon_va_disabled.svg');
+}
+.more-from-hola .more-va:hover {
+  background-image: url('icon_va.svg');
+}
+
+.more-from-hola .more-va .more-from-hola-tooltip h2 {
+  color: #00b7f1;
+}
+
+.more-from-hola .more-va .more-from-hola-tooltip:after {
+  left: initial;
+  right: 6px;
+  margin: 0 auto;
+}
+
+.more-from-hola .more-android {
+  background-image: url('icon_android_disabled.svg');
+}
+.more-from-hola .more-android:hover {
   background-image: url('icon_android.svg');
+}
+
+.more-from-hola .more-android .more-from-hola-tooltip h2 {
+  color: #00ad68;
 }
 
 .box-link {
