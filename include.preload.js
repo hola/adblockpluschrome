@@ -30,6 +30,12 @@ var typeMap = {
   "embed": "OBJECT"
 };
 
+function tagHtmlForHola()
+{
+  if (window.location.href.match(/https?:\/\/(www)?\.?hola\.org.*/))
+    document.documentElement.setAttribute('hola_adblocker_ext_present', 'true');
+}
+
 function getURLsFromObjectElement(element)
 {
   var url = element.getAttribute("data");
@@ -556,6 +562,7 @@ function init(document)
 
 if (document instanceof HTMLDocument)
 {
+  tagHtmlForHola();
   checkSitekey();
   window.updateStylesheet = init(document);
 }
